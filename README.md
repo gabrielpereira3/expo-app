@@ -1,7 +1,13 @@
-* **ESLINT INSTALATION**
+# **INSTALATIONS**
 
-`npm i eslint eslint-plugin-react eslint-plugin-react-hooks @typescript-eslint/parser @typescript-eslint/eslint-plugin`
+### **ESLINT**
 
-* **PRETTIER INSTALATION**
+`npm install eslint eslint-plugin-react eslint-plugin-react-hooks @typescript-eslint/parser @typescript-eslint/eslint-plugin`
 
-`npm i -D prettier eslint-plugin-prettier eslint-config-prettier`
+### **PRETTIER**
+
+`npm install -D prettier eslint-plugin-prettier eslint-config-prettier`
+
+### **STYLED COMPONENTS**
+
+`npm install --save styled-components`
