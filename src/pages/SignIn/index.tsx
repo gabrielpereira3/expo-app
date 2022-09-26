@@ -6,7 +6,7 @@ export const SignIn = () => {
     <Container>
       <Title>SignIn Page</Title>
       <UserInput
-        placeholder="Usuário"
+        placeholder="Login"
         autoCapitalize="none"
         autoCorrect={false}
         placeholderTextColor={'#fff'}
